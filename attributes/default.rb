@@ -1,2 +1,2 @@
-node[:ldmud][:options] = []
-node[:ldmud][:force_recompile] = false
+node.default[:ldmud][:options] = []
+node.default[:ldmud][:force_recompile] = false
